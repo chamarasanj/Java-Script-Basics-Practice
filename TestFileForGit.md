@@ -52,5 +52,5 @@ ex: This commit will : Fix the bug in Add Function in math file
 # Step 14. Make sure your default branch is main branch
 ' git branch -M main
 
-# Step 15. Push the local commits(changes) to the remote/cloud space
+# Step 15. Push the local commits(changes) to the remote/cloud branch
 'git push -u origin main

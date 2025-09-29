@@ -78,10 +78,14 @@ ex: This commit will : Fix the bug in Add Function in math file
 
 'git commit -m "Update the document"
 
-
-
 # Step 21. Push the Changes in Existing branch
+
 'git push
 
 # Step 22. Create a new branch called 'dev' from main branch.
+
 'git checkout -b dev
+
+# Step 23. Publish the branch to origin dev
+
+'git push -u origin dev

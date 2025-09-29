@@ -89,3 +89,9 @@ ex: This commit will : Fix the bug in Add Function in math file
 # Step 23. Publish the branch to origin dev
 
 'git push -u origin dev
+
+# git fetch
+
+# git checkout
+
+# git pull
